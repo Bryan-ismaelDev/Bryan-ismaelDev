@@ -1,4 +1,5 @@
-### Hi there 👋
+<div align="center">
+<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bryan-ismaelDev&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Bryan Github Stats">
 <br />
 <br />
