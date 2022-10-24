@@ -3,12 +3,6 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
- ![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryan-ismaelDev&show_icons=true&theme=radical)
-
-</div>
-
-----
-
  ![](https://discord.c99.nl/widget/theme-3/581904192650870785.png)
  
  <div align="center">
